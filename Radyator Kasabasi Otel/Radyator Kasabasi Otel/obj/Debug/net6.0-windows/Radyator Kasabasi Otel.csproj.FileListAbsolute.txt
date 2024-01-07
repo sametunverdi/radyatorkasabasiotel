@@ -1,0 +1,63 @@
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Radyator Kasabasi Otel.exe
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Radyator Kasabasi Otel.deps.json
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Radyator Kasabasi Otel.runtimeconfig.json
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Radyator Kasabasi Otel.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Radyator Kasabasi Otel.pdb
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator_Kasabasi_Otel.Properties.Resources.resources
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator Kasabasi Otel.csproj.GenerateResource.cache
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator Kasabasi Otel.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator Kasabasi Otel.AssemblyInfoInputs.cache
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator Kasabasi Otel.AssemblyInfo.cs
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator Kasabasi Otel.csproj.CoreCompileInputs.cache
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator Kasabasi Otel.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\refint\Radyator Kasabasi Otel.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator Kasabasi Otel.pdb
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator Kasabasi Otel.genruntimeconfig.cache
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\ref\Radyator Kasabasi Otel.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator_Kasabasi_Otel.Frm_YeniMusteri.resources
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator_Kasabasi_Otel.FrmAdminGiris.resources
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator_Kasabasi_Otel.FrmAnaForm.resources
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\SQLConnection.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator Kasabasi Otel.csproj.AssemblyReference.cache
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator_Kasabasi_Otel.FrmOdalar.resources
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator Kasabasi Otel.csproj.CopyComplete
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\HybridModelBinding.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.Core.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Routing.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\OpenGL.Net.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\OpenGL.Net.WinForms.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\bin\Debug\net6.0-windows\SoilData_API_VB.dll
+C:\c# dersleri\Radyator Kasabasi Otel\Radyator Kasabasi Otel\obj\Debug\net6.0-windows\Radyator_Kasabasi_Otel.FrmMusteriler.resources
